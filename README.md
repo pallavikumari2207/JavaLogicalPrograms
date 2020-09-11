@@ -1,7 +1,7 @@
 # JavaLogicalPrograms
 
 ## Problem Statement:
-   Solution for solving array which has All numbers occuring twice except one number which occurs once.
+    solve array which has All numbers occuring twice except one number which occurs once.
 
 ### Approach 1:
    - ***USING XOR benifit :-*** The time complexity of this solution is ***`O(n)`*** and it requires ***`O(1)`*** extra space. 
